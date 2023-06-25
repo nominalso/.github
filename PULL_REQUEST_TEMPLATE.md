@@ -7,6 +7,6 @@
 - [ ] Created tests which fail without the change (if possible)
 - [ ] All tests passing
 - [ ] Extended the README / documentation, if necessary
-- Depends on packages:
-  [ ] libcommon
-  [ ] nom-cli
+### Packages
+- [ ] libcommon
+- [ ] nom-cli
