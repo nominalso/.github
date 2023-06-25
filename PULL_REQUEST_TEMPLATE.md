@@ -1,7 +1,3 @@
-### Description
-- < change A >
-- < change B >
-
 ### Types of changes
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -11,4 +7,6 @@
 - [ ] Created tests which fail without the change (if possible)
 - [ ] All tests passing
 - [ ] Extended the README / documentation, if necessary
-- [ ] The commit message follows our guidelines
+- Depends on packages:
+  [ ] libcommon
+  [ ] nom-cli
