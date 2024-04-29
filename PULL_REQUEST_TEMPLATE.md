@@ -1,4 +1,5 @@
-### Types of changes
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+### Description of Changes
+<!--
+Please provide a detailed description of the changes you have made in this pull request. Include the context and motivation behind these changes. 
+If applicable, also list any dependencies that are required for this change.
+-->
